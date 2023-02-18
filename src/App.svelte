@@ -11,7 +11,7 @@
     class="font-kumbh-sans w-80 select-none overflow-hidden rounded-xl bg-white shadow-xl transition-all hover:shadow-2xl sm:w-96">
     <div class="relative grid place-items-center">
       <div
-        class="h-32 w-full bg-[url('./images/bg-pattern-card.svg')] sm:h-40" />
+        class="h-32 w-full bg-[url('../images/bg-pattern-card.svg')] sm:h-40" />
 
       <div class="flex flex-col items-center pt-16 pb-4">
         <div class="space-x-2">
